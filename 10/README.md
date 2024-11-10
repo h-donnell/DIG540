@@ -33,4 +33,4 @@ Part 3: Import from Internet Archive and annotate the media:
 - Create spatial annotations by drawing on top of the image in the Annotation editor;
 - Post the URL to your constructed Scalar page to Slack's #scalar-urls channel!
 
-**The assignment should be done by Friday Nov. 15th.**
+**The assignment should be done by Saturday Nov. 16th.**
