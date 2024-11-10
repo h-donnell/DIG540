@@ -20,7 +20,7 @@ Part 1: Install Scalar:
 	- You'll be a blank home page for Scalar... in the upper right should be a login link
 	- Follow the login link then login using your email and password from before
 	- That's it! Now you can start the video and follow along.
-- Create a new Scalar book and enter the new book;
+- Create a new Scalar book and enter the new book; **This is where the video picks up**
 - Import a media item from your Omeka S install;
 
 Part 2: Style Scalar:
